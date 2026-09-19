@@ -73,7 +73,4 @@ Runtime: ~10 seconds. Data sources are in `datain/` and downloaded from the [OEC
 - **R programming** — `dplyr` pipelines, `fixest::feols` for high-dimensional FE, `plm` for panel structures, `modelsummary` for publication-quality tables, `ggplot2` for descriptive plots
 - **Academic writing** — structured empirical paper with literature review, methods justification, and honest limitations
 
----
 
-**Phan Thanh Anh Quoc** — MSc Advanced Applied Economics, Université de Caen Normandie · France Excellence Eiffel Scholar
-[LinkedIn](https://www.linkedin.com/in/thanhanhquocphan/) · quocphan2512@gmail.com
